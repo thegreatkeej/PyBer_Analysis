@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Mod 5
+Analyzing a ride share app that has data on ridership from urban, suburban and rural areas to determine ridership trends.
 ## Overview of PyBer Data Analysis
 -	In this module, I am performing an exploratory analysis on (2) large CSV 
 	files that I merged into one combined file. Then I devided the combined
